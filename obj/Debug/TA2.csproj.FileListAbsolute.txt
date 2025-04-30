@@ -1,0 +1,31 @@
+C:\Users\pietr\Desktop\Funda de sistemas_2025-00\SEMANA 5 y 6\TA\TA2\bin\Debug\TA2.exe.config
+C:\Users\pietr\Desktop\Funda de sistemas_2025-00\SEMANA 5 y 6\TA\TA2\bin\Debug\TA2.exe
+C:\Users\pietr\Desktop\Funda de sistemas_2025-00\SEMANA 5 y 6\TA\TA2\bin\Debug\TA2.pdb
+C:\Users\pietr\Desktop\Funda de sistemas_2025-00\SEMANA 5 y 6\TA\TA2\obj\Debug\TA2.csproj.AssemblyReference.cache
+C:\Users\pietr\Desktop\Funda de sistemas_2025-00\SEMANA 5 y 6\TA\TA2\obj\Debug\TA2.Form1.resources
+C:\Users\pietr\Desktop\Funda de sistemas_2025-00\SEMANA 5 y 6\TA\TA2\obj\Debug\TA2.Properties.Resources.resources
+C:\Users\pietr\Desktop\Funda de sistemas_2025-00\SEMANA 5 y 6\TA\TA2\obj\Debug\TA2.csproj.GenerateResource.cache
+C:\Users\pietr\Desktop\Funda de sistemas_2025-00\SEMANA 5 y 6\TA\TA2\obj\Debug\TA2.csproj.CoreCompileInputs.cache
+C:\Users\pietr\Desktop\Funda de sistemas_2025-00\SEMANA 5 y 6\TA\TA2\obj\Debug\TA2.exe
+C:\Users\pietr\Desktop\Funda de sistemas_2025-00\SEMANA 5 y 6\TA\TA2\obj\Debug\TA2.pdb
+C:\Users\pietr\Desktop\Funda de sistemas_2025-00\SEMANA 5 y 6\TA2\TA2\bin\Debug\TA2.exe.config
+C:\Users\pietr\Desktop\Funda de sistemas_2025-00\SEMANA 5 y 6\TA2\TA2\bin\Debug\TA2.exe
+C:\Users\pietr\Desktop\Funda de sistemas_2025-00\SEMANA 5 y 6\TA2\TA2\bin\Debug\TA2.pdb
+C:\Users\pietr\Desktop\Funda de sistemas_2025-00\SEMANA 5 y 6\TA2\TA2\obj\Debug\TA2.csproj.AssemblyReference.cache
+C:\Users\pietr\Desktop\Funda de sistemas_2025-00\SEMANA 5 y 6\TA2\TA2\obj\Debug\TA2.Form1.resources
+C:\Users\pietr\Desktop\Funda de sistemas_2025-00\SEMANA 5 y 6\TA2\TA2\obj\Debug\TA2.Properties.Resources.resources
+C:\Users\pietr\Desktop\Funda de sistemas_2025-00\SEMANA 5 y 6\TA2\TA2\obj\Debug\TA2.csproj.GenerateResource.cache
+C:\Users\pietr\Desktop\Funda de sistemas_2025-00\SEMANA 5 y 6\TA2\TA2\obj\Debug\TA2.csproj.CoreCompileInputs.cache
+C:\Users\pietr\Desktop\Funda de sistemas_2025-00\SEMANA 5 y 6\TA2\TA2\obj\Debug\TA2.exe
+C:\Users\pietr\Desktop\Funda de sistemas_2025-00\SEMANA 5 y 6\TA2\TA2\obj\Debug\TA2.pdb
+C:\Users\NIvra\AppData\Local\Temp\Rar$DRa20104.39143\TA2\bin\Debug\TA2.exe.config
+C:\Users\NIvra\AppData\Local\Temp\Rar$DRa20104.39143\TA2\bin\Debug\TA2.exe
+C:\Users\NIvra\AppData\Local\Temp\Rar$DRa20104.39143\TA2\bin\Debug\TA2.pdb
+C:\Users\NIvra\AppData\Local\Temp\Rar$DRa20104.39143\TA2\obj\Debug\TA2.csproj.AssemblyReference.cache
+C:\Users\NIvra\AppData\Local\Temp\Rar$DRa20104.39143\TA2\obj\Debug\TA2.csproj.SuggestedBindingRedirects.cache
+C:\Users\NIvra\AppData\Local\Temp\Rar$DRa20104.39143\TA2\obj\Debug\TA2.Form1.resources
+C:\Users\NIvra\AppData\Local\Temp\Rar$DRa20104.39143\TA2\obj\Debug\TA2.Properties.Resources.resources
+C:\Users\NIvra\AppData\Local\Temp\Rar$DRa20104.39143\TA2\obj\Debug\TA2.csproj.GenerateResource.cache
+C:\Users\NIvra\AppData\Local\Temp\Rar$DRa20104.39143\TA2\obj\Debug\TA2.csproj.CoreCompileInputs.cache
+C:\Users\NIvra\AppData\Local\Temp\Rar$DRa20104.39143\TA2\obj\Debug\TA2.exe
+C:\Users\NIvra\AppData\Local\Temp\Rar$DRa20104.39143\TA2\obj\Debug\TA2.pdb
